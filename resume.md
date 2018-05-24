@@ -1,33 +1,35 @@
 Muhammad Naufal Shidqi
 ===========
-Mahasiswa PPKU IPB
+Mahasiswa PPKU IPB<br><br>
 
-
-<address>
 _Perumahan Raffles Hills Blok C7/17 16454_<br>
 _+62 821-1433-7539_<br>
 _naufalshidqi99@gmail.com_<br>
-</address>
 
-# Pendidikan
-=========
-SMA Negeri 39 Jakarta
+## Pendidikan
+
+__SMA Negeri 39 Jakarta__
 Jul 2014 - Jun 2017
 
-SMP Labschool Cibubur
+__SMP Labschool Cibubur__
 Jul 2011 - Jun 2014
 
-SD Islam Al-Azhar 20 Cibubur
+__SD Islam Al-Azhar 20 Cibubur__
 Jul 2005 - Jun 2011
 
-Kepanitiaan
-DDD Makrab R06
-DDD "R06ER's Day Out"
-PJ Dekorasi Music Corner Band 39 Jakarta
-Keahlian
-Pemogramman — Pemula
-Fotografi — Sedang
-Drummer Band — Sedang
-Cinematografi — Pemula
-Hobi
-Mendengarkan musik, bermain gim, travelling, fotografi
+## Kepanitiaan
+
+* DDD Makrab R06<br>
+* DDD "R06ER's Day Out"<br>
+* PJ Dekorasi Music Corner Band 39 Jakarta<br>
+
+## Keahlian
+
+* Pemogramman — Pemula<br>
+* Fotografi — Sedang<br>
+* Drummer Band — Sedang<br>
+* Cinematografi — Pemula<br>
+
+## Hobi
+
+Mendengarkan musik, bermain gim, travelling, dan fotografi
